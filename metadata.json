@@ -1,0 +1,6 @@
+{
+  "name": "TypeVerse - Pro Speed Typing & Touch Mastery",
+  "description": "Test and train your touch typing speed with custom minute limits, long passages, and real-time mechanical keyboard sound feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
